@@ -11,5 +11,5 @@ The objective of this homework is to explain how to deploy a blockchain and inte
 
 #### Deploying Node 2
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pic 2]((https://github.com/mrasumof/Blockchain/blob/main/Images/pic2.jpg?raw=true)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pic 2](https://github.com/mrasumof/Blockchain/blob/main/Images/pic2.jpg?raw=true)
 
